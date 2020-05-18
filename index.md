@@ -26,19 +26,19 @@ choco install -y nodejs.install python2 jdk8
 
 ![enter_env_01](enter_env_01.png)
 
-![enter_env_02](enter_env_02.png)
+![enter_env_02](enter_env_02.PNG)
 
-![enter_env_03](enter_env_03.png)
+![enter_env_03](enter_env_03.PNG)
 
-![enter_env_04](enter_env_04.png)
+![enter_env_04](enter_env_04.PNG)
 
-![enter_env_05](enter_env_05.png)
+![enter_env_05](enter_env_05.PNG)
 
-![enter_env_06](enter_env_06.png)
+![enter_env_06](enter_env_06.PNG)
 
-![enter_env_07](enter_env_07.png)
+![enter_env_07](enter_env_07.PNG)
 
-![enter_env_08](enter_env_08.png)
+![enter_env_08](enter_env_08.PNG)
 
 이제 확인을 쭉쭉 눌러서 적용을 시켜 줍니다.
 
