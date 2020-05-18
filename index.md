@@ -46,8 +46,29 @@ choco install -y nodejs.install python2 jdk8
 
 다음으로 안드로이드 스튜디오 설치법을 설명하겠습니다.
 
-**https://developer.android.com/studio/install?hl=ko**
+[https://developer.android.com/studio/install?hl=ko](https://developer.android.com/studio/install?hl=ko)
+
+
 
 위 링크의 가이드를 참고 하여 설치를 하여 줍니다.
 
 그리고 안드로이드 스튜디오를 열고 sdk 설정을 해줍니다.
+
+![android_studio00](android_studio00.PNG)
+
+![android_studio01](android_studio01.png)
+
+![android_studio02](android_studio02.PNG)
+
+![android_studio03](android_studio03.PNG)
+
+![android_studio4](android_studio04.PNG)
+
+둘중 1나 선택해서 적용해 줍니다.
+
+
+
+이후에 안드로이드 환경 변수 설정을 하여 줍니다.
+
+안드로이드 환경변수 설정은 
+
