@@ -51,4 +51,3 @@ choco install -y nodejs.install python2 jdk8
 위 링크의 가이드를 참고 하여 설치를 하여 줍니다.
 
 그리고 안드로이드 스튜디오를 열고 sdk 설정을 해줍니다.
-
